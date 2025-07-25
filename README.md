@@ -4,6 +4,14 @@
 
 We will use [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating).
 
+## Node REPL
+
+Just run:
+
+```bash
+node
+```
+
 ## References
 
 - [Frontend Masters course](https://frontendmasters.com/courses/node-js-v3/).
