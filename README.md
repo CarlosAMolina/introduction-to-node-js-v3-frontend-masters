@@ -1,5 +1,9 @@
 # Introduction to Node.js, v3
 
+## Installation
+
+We will use [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating).
+
 ## References
 
 - [Frontend Masters course](https://frontendmasters.com/courses/node-js-v3/).
