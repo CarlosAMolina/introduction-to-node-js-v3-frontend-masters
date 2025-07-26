@@ -1,0 +1,23 @@
+{
+  "name": "introduction-to-node-js-v3-frontend-masters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters/issues"
+  },
+  "homepage": "https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters#readme"
+}
