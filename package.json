@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters/issues"
   },
-  "homepage": "https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters#readme"
+  "homepage": "https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters#readme",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
 }
