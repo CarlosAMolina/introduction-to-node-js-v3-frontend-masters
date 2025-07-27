@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import fs from 'fs'
 
 const note = process.argv[2]
 const newNote = {
