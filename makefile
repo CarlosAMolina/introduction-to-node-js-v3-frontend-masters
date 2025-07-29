@@ -14,5 +14,8 @@ run-note-find:
 run-note-new:
 	note new "clean my room" --tags "work,serious"
 
-run-note-remove:
+run-note-remove-id:
 	note remove 1753820820919
+
+run-note-remove-all:
+	note clean
