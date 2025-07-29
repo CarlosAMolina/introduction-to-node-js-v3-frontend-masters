@@ -13,3 +13,6 @@ run-note-find:
 
 run-note-new:
 	note new "clean my room" --tags "work,serious"
+
+run-note-remove:
+	note remove 1753820820919
