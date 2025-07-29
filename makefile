@@ -1,6 +1,7 @@
 run:
 	node index.js
 
+# To execute `run-note...` commands you have to create the link (see README.md).
 run-note-get-all:
 	note all
 
