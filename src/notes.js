@@ -33,4 +33,5 @@ export const removeNote = async id => {
 }
 
 // As nothing else is done after this function, `async` is not required.
+// The return is implicit.
 export const removeAllNotes = () => saveDB({notes: []})
