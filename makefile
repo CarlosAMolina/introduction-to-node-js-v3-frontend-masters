@@ -16,3 +16,6 @@ run-note-remove-id:
 
 run-note-remove-all:
 	note clean
+
+run-test:
+	npm test
