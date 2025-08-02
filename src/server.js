@@ -35,7 +35,8 @@ const createServer = (notes) => {
 export const start = (notes, port) => {
   const server = createServer(notes)
   server.listen(port, () => {
-    console.log(`Server is listening on port ${port}`);
+    const address = `http://localhost:${port}`
+    console.log(`server on ${address}`);
+    open(address)
   });
-  open(`http://localhost:${port}`)
 }

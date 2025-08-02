@@ -19,3 +19,8 @@ run-note-remove-all:
 
 run-test:
 	npm test
+
+run-web:
+	note web
+
+run-web-with-note: run-note-new run-web
